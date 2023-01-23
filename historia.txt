@@ -1,4 +1,6 @@
-Hola mi nombre es David
-Estamos jugando con GIT
+Hola mi nombre es David Dominguez Curiel
+Estamos jugando con GIT, y algunos comandas aprendiento
 Tengo 36 años
 Naci en Pachuca, Hgo. Mexico 
+
+Lo estoy editando agregando otro Parrafo
